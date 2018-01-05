@@ -1,6 +1,9 @@
 # About this Repo
 
-This is the Git repo of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [ghost](https://registry.hub.docker.com/_/ghost/). See [the Docker Hub page](https://registry.hub.docker.com/_/ghost/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
+This is my version of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [ghost](https://registry.hub.docker.com/_/ghost/). See [the Docker Hub page](https://registry.hub.docker.com/_/ghost/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
+
+## Differences between this and the official repo
+The main difference is that this repo contains my live blog content and a docker-compose file I use to start up the system. 
 
 The full readme is generated over in [docker-library/docs](https://github.com/docker-library/docs), specifically in [docker-library/docs/ghost](https://github.com/docker-library/docs/tree/master/ghost).
 
